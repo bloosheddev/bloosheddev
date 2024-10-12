@@ -1,5 +1,3 @@
-<bold>test</bold>
-
 ### Making anything. 🔥🦅🔥🔥🦅🦅🔥🦅
 ![github stats](https://github-readme-stats.vercel.app/api?username=bloosheddev&show_icons=true)
 <!--
