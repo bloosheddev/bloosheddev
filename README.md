@@ -1,4 +1,4 @@
-## About me. 👋👋👋👋
+### About me. 👋👋👋👋
 - 🔭 I’m currently working on **some great mobile apps**
 - 🌱 I’m currently learning **mobile development**
 
