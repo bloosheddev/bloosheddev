@@ -1,10 +1,11 @@
+## About me. 👋👋👋👋
 - 🔭 I’m currently working on **some great mobile apps**
 - 🌱 I’m currently learning **mobile development**
 
 ### Making anything 🔥🦅🔥🔥🦅🦅🔥🦅
 ![github stats](https://github-readme-stats.vercel.app/api?username=bloosheddev&show_icons=true)
 
-### Language & Tools 🌐🌐⚔⚔🔥
+### Language & tools. 🌐🌐⚔⚔🔥
 [![React.js](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)]([https://en.wikipedia.org/wiki/C++](https://react.dev/))
 [![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)](https://nodejs.org/)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
