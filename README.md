@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on **some great mobile apps**
 - 🌱 I’m currently learning **mobile development**
 
-### Making anything 🔥🦅🔥🔥🦅🦅🔥🦅
+### Making anything. 🔥🦅🔥🔥🦅🦅🔥🦅
 ![github stats](https://github-readme-stats.vercel.app/api?username=bloosheddev&show_icons=true)
 
 ### Language & tools. 🌐🌐⚔⚔🔥
