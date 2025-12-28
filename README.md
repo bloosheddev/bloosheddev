@@ -5,6 +5,9 @@
 ### Making anything. 🔥🦅🔥🔥🦅🦅🔥🦅
 ![github stats](https://github-readme-stats.vercel.app/api?username=bloosheddev&show_icons=true)
 
+### Try OpenGreen on Play Store!
+[![Play Store](https://raw.githubusercontent.com/pioug/google-play-badges/06ccd9252af1501613da2ca28eaffe31307a4e6d/svg/English.svg)](https://groups.google.com/u/6/g/opengreen)
+
 ### Language & tools. 🌐🌐⚔⚔🔥
 [![React.js](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)]([https://en.wikipedia.org/wiki/C++](https://react.dev/))
 [![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)](https://nodejs.org/)
