@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **mobile development**
 
 ### Making anything. 🔥🦅🔥🔥🦅🦅🔥🦅
-![github stats](https://github-readme-stats.vercel.app/api?username=bloosheddev&show_icons=true)
+![github stats](https://nirzak-streak-stats.vercel.app/?user=bloosheddev&theme=light&hide_border=false)
 
 ### Try OpenGreen on Play Store!
 [![Play Store](https://raw.githubusercontent.com/pioug/google-play-badges/06ccd9252af1501613da2ca28eaffe31307a4e6d/svg/English.svg)](https://groups.google.com/u/6/g/opengreen)
