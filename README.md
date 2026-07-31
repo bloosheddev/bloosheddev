@@ -6,7 +6,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=bloosheddev)](https://git.io/streak-stats)
 
 ### Try OpenGreen on Play Store!
-[![Play Store](https://raw.githubusercontent.com/pioug/google-play-badges/06ccd9252af1501613da2ca28eaffe31307a4e6d/svg/English.svg)](https://groups.google.com/u/6/g/opengreen)
+[![Play Store](https://raw.githubusercontent.com/pioug/google-play-badges/06ccd9252af1501613da2ca28eaffe31307a4e6d/svg/English.svg)](https://groups.google.com/g/teammetaverst)
 
 ### Language & tools. 🌐🌐⚔⚔🔥
 [![React.js](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)]([https://en.wikipedia.org/wiki/C++](https://react.dev/))
