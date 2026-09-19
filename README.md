@@ -1,6 +1,6 @@
 ### About me. 👋👋👋👋
-- 🔭 I’m currently working on **some great mobile apps**
-- 🌱 I’m currently learning **mobile development**
+- 🔭 I’m currently working on **~some great mobile apps~ hardware project**
+- 🌱 I’m currently learning **hardware engineering**
 
 ### Making anything. 🔥🦅🔥🔥🦅🦅🔥🦅
 [![GitHub Streak](https://streak-stats.demolab.com?user=bloosheddev)](https://git.io/streak-stats)
